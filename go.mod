@@ -1,5 +1,4 @@
-module clean-arch-copy
-
+module BACKEND_UAS
 go 1.24.6
 
 require github.com/swaggo/fiber-swagger v1.3.0

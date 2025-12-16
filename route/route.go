@@ -6,11 +6,11 @@ import (
 	"os"
 	"time"
 
-	mongoModel "clean-arch-copy/app/model/mongo"
-	pgModel "clean-arch-copy/app/model/postgre"
-	"clean-arch-copy/app/service"
-	"clean-arch-copy/middleware"
-	"clean-arch-copy/utils"
+	mongoModel "BACKEND_UAS/app/model/mongo"
+	pgModel "BACKEND_UAS/app/model/postgre"
+	"BACKEND_UAS/app/service"
+	"BACKEND_UAS/middleware"
+	"BACKEND_UAS/utils"
 
 	"github.com/gofiber/fiber/v2"
 )

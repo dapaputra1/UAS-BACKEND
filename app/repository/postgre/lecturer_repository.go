@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"time"
 
-	pgmodel "clean-arch-copy/app/model/postgre"
+	pgmodel "BACKEND_UAS/app/model/postgre"
 )
 
 // LecturerRepository manages lecturers table.

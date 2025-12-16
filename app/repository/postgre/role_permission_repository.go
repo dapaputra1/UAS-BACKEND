@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql"
 
-	pgmodel "clean-arch-copy/app/model/postgre"
+	pgmodel "BACKEND_UAS/app/model/postgre"
 )
 
 // RolePermissionRepository manages assignment between roles and permissions.

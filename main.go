@@ -11,12 +11,12 @@ import (
 
 	fiberSwagger "github.com/swaggo/fiber-swagger"
 
-	mongorepo "clean-arch-copy/app/repository/mongo"
-	pgrepo "clean-arch-copy/app/repository/postgre"
-	service "clean-arch-copy/app/service"
-	config "clean-arch-copy/config"
-	db "clean-arch-copy/database"
-	route "clean-arch-copy/route"
+	mongorepo "BACKEND_UAS/app/repository/mongo"
+	pgrepo "BACKEND_UAS/app/repository/postgre"
+	service "BACKEND_UAS/app/service"
+	config "BACKEND_UAS/config"
+	db "BACKEND_UAS/database"
+	route "BACKEND_UAS/route"
 
 	"go.mongodb.org/mongo-driver/mongo"
 )

@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	pgModel "clean-arch-copy/app/model/postgre"
-	pgRepo "clean-arch-copy/app/repository/postgre"
+	pgModel "BACKEND_UAS/app/model/postgre"
+	pgRepo "BACKEND_UAS/app/repository/postgre"
 
 	"github.com/golang-jwt/jwt/v5"
 	"golang.org/x/crypto/bcrypt"
